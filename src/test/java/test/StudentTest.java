@@ -34,7 +34,7 @@ public class StudentTest {
     @Test
     public void setRegNumber() throws Exception {
         s1.setRegNumber("studentul1");
-        assertEquals("setRegNumber crapat", "studentul1",s1.getRegNumber());
+        assertEquals("setRegNumber crapat", "studentul3",s1.getRegNumber());
 
         s1.setRegNumber("studentul2");
         assertEquals("setRegNumber crapat", "studentul2",s1.getRegNumber());
