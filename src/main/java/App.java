@@ -11,6 +11,7 @@ public class App {
             view.run();
         } catch (Exception e) {
             e.printStackTrace();
+            //intofijdsklu
         }
     }
 }
